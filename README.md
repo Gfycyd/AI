@@ -1,2 +1,4 @@
 # AI
-Draw
+Draw picture
+## by Uzbekova Katya
+
